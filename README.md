@@ -49,10 +49,10 @@ Kanha-Trading/
 The entire website is built inside a single HTML file.
 
 Section| Line Number
-HTML Head| 1 – 13
-CSS ("<style>")| 14 – 331
-HTML Body| 333 – 686
-JavaScript ("<script>")| 687 – 827
+HTML Head| 1 – 13 |
+CSS ("<style>")| 14 – 331|
+HTML Body| 333 – 686 |
+JavaScript ("<script>")| 687 – 827|
 
 ---
 
